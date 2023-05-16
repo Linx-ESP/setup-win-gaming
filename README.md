@@ -29,6 +29,14 @@ Scripts or tools to automatically setup Windows for gaming.
       - Controller profiles
     - Sym-links to centralize certain folders
       - Probably not
+    - Program winget updates
+      - Only if silent, and/or optional  
+      - WingetUI
+
+### Used tools
+- Powershell scripts
+- winget
+  - Windows Package repository is YES/10
 
 ___
  
